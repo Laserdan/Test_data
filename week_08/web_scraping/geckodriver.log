@@ -1,0 +1,50 @@
+1607013997261	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNm6lUe"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607014000160	Marionette	INFO	Listening on port 35895
+1607014000393	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607014011693	Marionette	INFO	Stopped listening on port 35895
+1607014073792	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledF3knh"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607014076814	Marionette	INFO	Listening on port 42661
+1607014076922	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+
+(firefox:46534): GLib-GObject-CRITICAL **: 17:49:45.219: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:46534): GLib-GObject-WARNING **: 17:49:45.219: ../../../gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7fb0c1a472f0' of type 'MaiAtkType139'
+
+(firefox:46534): GLib-GObject-CRITICAL **: 17:49:45.221: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:46534): GLib-GObject-WARNING **: 17:49:45.221: ../../../gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7fb09f33cb30' of type 'MaiAtkType139'
+
+(firefox:46534): GLib-GObject-WARNING **: 17:49:45.221: ../../../gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7fb09f33c770' of type 'MaiAtkType139'
+
+(firefox:46534): GLib-GObject-CRITICAL **: 17:49:45.222: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:46534): GLib-GObject-CRITICAL **: 17:49:45.223: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:46534): GLib-GObject-CRITICAL **: 17:49:45.223: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:46534): GLib-GObject-CRITICAL **: 17:49:45.223: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:46534): GLib-GObject-CRITICAL **: 17:49:45.223: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:46534): GLib-GObject-CRITICAL **: 17:49:45.238: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:46534): GLib-GObject-CRITICAL **: 17:49:45.287: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:46534): GLib-GObject-CRITICAL **: 17:49:49.486: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+console.warn: "Failed to enumerate localStorage for host https://renfe.demdex.net: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://renfe.demdex.net: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://renfe.demdex.net: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://renfe.demdex.net: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://renfe.demdex.net: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://renfe.demdex.net: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://renfe.demdex.net: SecurityError: The operation is insecure."
+JavaScript warning: resource://devtools/client/shared/demangle.js, line 0: Successfully compiled asm.js code (total compilation time 76ms)
+1607014896183	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9n3IZB"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607014899182	Marionette	INFO	Listening on port 44445
+1607014899219	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607014904880	Marionette	INFO	Stopped listening on port 44445
+1607014907572	Marionette	INFO	Stopped listening on port 42661
